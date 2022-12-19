@@ -36,7 +36,13 @@ body {
     /* マウスオーバーした時の文字色を設定 */
     color: #aaa;
 }
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-3ZKNXL6VYE');
+</script>
 
 
 .content {
